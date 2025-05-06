@@ -7,6 +7,27 @@
   <em>A clinical NLP toolkit powered by BERT for classification, summarization, and real-time predictions.</em>
 </p>
 
+<p align="center">
+  <img src="assets/banner.png" width="800"/>
+</p>
+
+<h1 align="center">MediBERTx 🧠</h1>
+<p align="center">
+  <em>A clinical NLP toolkit powered by BERT for classification, summarization, and real-time predictions.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/isjustabhi/MediBERTx">
+    <img src="https://img.shields.io/github/repo-size/isjustabhi/MediBERTx" alt="Repo size"/>
+  </a>
+  <a href="https://github.com/isjustabhi/MediBERTx/commits/main">
+    <img src="https://img.shields.io/github/last-commit/isjustabhi/MediBERTx" alt="Last commit"/>
+  </a>
+  <a href="https://github.com/isjustabhi/MediBERTx/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/isjustabhi/MediBERTx" alt="License"/>
+  </a>
+</p>
+
 ---
 
 ## ⚙️ Features
